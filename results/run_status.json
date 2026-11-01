@@ -1,0 +1,9 @@
+{
+  "unseen_evaluation": true,
+  "test_sessions": 8,
+  "training_sessions": 44,
+  "evaluation_type": "independent held-out sessions",
+  "training_loglikelihood": 5458.521334782683,
+  "baum_welch_iterations": 39,
+  "overall_window_accuracy": 0.21782178217821782
+}
